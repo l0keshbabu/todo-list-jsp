@@ -1,0 +1,14 @@
+# Eclipse
+.metadata/
+.settings/
+Servers/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
