@@ -27,11 +27,11 @@
 <form action="addtask.jsp" method="post">
     Add Task:
     <input type="text" name="task" required>
-    <input type="submit" value="Add">
+    <center><input type="submit" value="Add"></center>
 </form>
-
 <br>
-<a href="ViewToDos.jsp" class="bth">View Tasks</a><br><br>
+
+<a href="ViewToDos.jsp" class="bth">View Tasks</a>
 <a href="logout.jsp" class="bth">Logout</a>
 </div>
 </body>

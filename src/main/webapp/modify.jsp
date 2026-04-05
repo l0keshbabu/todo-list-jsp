@@ -42,7 +42,7 @@
     </select>
 
     <br><br>
-    <input type="submit" value="Update Task">
+    <center><input type="submit" value="Update Task"></center>
 </form>
 
 <br>

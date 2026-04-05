@@ -95,6 +95,9 @@ th {
     color: #3b82f6;                /* nice blue text */
     font-weight: 600;
 }
-
+.lgn{
+	 border: 2px solid #1f2937;      /* dark grey border */
+	color:red;
+}
 
 	

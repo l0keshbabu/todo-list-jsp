@@ -54,7 +54,7 @@
 </table>
 
 <br>
-<a href="UserHome.jsp" class="bth">Back</a><br><br>
+<a href="UserHome.jsp" class="bth">Back</a>
 <a href="logout.jsp" class="bth">Logout</a>
 
 </body>

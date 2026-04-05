@@ -12,7 +12,7 @@
 <form action="dologin.jsp" method="post">
     Email: <input type="email" name="email" required><br><br>
     Password: <input type="password" name="password" required><br><br>
-    <input type="submit" value="Login">
+    <center><input type="submit" value="Login"></center>
 </form>
 
 <br>
